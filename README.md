@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love coffee ☕
 
-<br />
-
 ### Connect with me, I'm kinda friendly:
 [<img align="left" alt="Melvin Sng | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/86507247/164404999-0364dd6b-001c-45e4-a408-4fce3dc002ee.png" />](https://www.linkedin.com/in/melvinsng/)
+
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
