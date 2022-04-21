@@ -16,6 +16,9 @@ Here are some ideas to get you started: -->
 
 ### Connect with me, I'm kinda friendly:
 [<img align="left" alt="Melvin Sng | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/86507247/164404999-0364dd6b-001c-45e4-a408-4fce3dc002ee.png" />](https://www.linkedin.com/in/melvinsng/)
+[<img align="left" alt="Melvin Sng | Medium" width="22px" src="https://user-images.githubusercontent.com/86507247/164407018-23b2c9c1-c272-43a9-acd1-f92aa6c0c949.png" />](https://melvin-sng.medium.com/)
+[<img align="left" alt="Melvin Sng | Twitter" width="22px" src="https://user-images.githubusercontent.com/86507247/164407328-e764cfe6-c951-40fe-8257-434b5f799308.png" />](https://twitter.com/fuzzykitto/)
+[<img align="left" alt="Melvin Sng | Instagram" width="22px" src="https://user-images.githubusercontent.com/86507247/164407557-adc1ea82-aa9a-4a18-aab6-953974d9b492.png" />](https://www.instagram.com/fuzzykitto/)
 
 <br />
 
