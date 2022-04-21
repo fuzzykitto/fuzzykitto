@@ -14,6 +14,9 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love coffee ☕
 
+<br />
+
+### Connect with me, I'm kinda friendly:
 [<img align="left" alt="Melvin Sng | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/86507247/164404999-0364dd6b-001c-45e4-a408-4fce3dc002ee.png" />](https://www.linkedin.com/in/melvinsng/)
 
 ### Languages and Tools:
