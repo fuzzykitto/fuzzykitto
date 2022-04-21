@@ -1,12 +1,12 @@
 ## Hello World! I'm Melvin 👋
 
-### I'm a self-taught coder and scrum master. I like to deliver value by solving real world problems. 
+### I'm a self-taught coder. I like to deliver value by solving real world problems. 
 <!--
 **fuzzykitto/fuzzykitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Agile and Scrum
+- 🔭 I’m currently working on the course iOS & Swift - The Complete iOS App Development Bootcamp
 - 🌱 I’m currently learning iOS and Swift
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Agile and Scrum framework
